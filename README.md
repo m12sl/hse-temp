@@ -15,3 +15,9 @@ jupyter notebook
 Anaconda3:
 
 https://www.anaconda.com/download/#linux
+
+
+Материалы ко второму семинару
+
+
+https://drive.google.com/file/d/1yN1tNxMLxH_iX35vOht35y0RJNHg2o_5/view?usp=sharing
