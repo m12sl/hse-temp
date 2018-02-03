@@ -21,3 +21,7 @@ https://www.anaconda.com/download/#linux
 
 
 https://drive.google.com/file/d/1yN1tNxMLxH_iX35vOht35y0RJNHg2o_5/view?usp=sharing
+
+
+Материалы к четвертому семинару
+https://drive.google.com/open?id=1DBMjlOSLYWMIzxSsye_w_Ra9jkB7Yp_p
