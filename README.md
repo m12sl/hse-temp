@@ -27,3 +27,8 @@ https://drive.google.com/open?id=1DBMjlOSLYWMIzxSsye_w_Ra9jkB7Yp_p
 
 ## Материалы к пятому семинару
 https://drive.google.com/open?id=10zHKnS0UGgES_emz0C2Spur2i0ENCdWf
+
+
+
+## Материалы к шестому семинару
+https://drive.google.com/open?id=1R0YPfYO3gd0JMzBzXlQA_i_8nMX33HKE
