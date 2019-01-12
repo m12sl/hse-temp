@@ -1,7 +1,7 @@
 # hse-temp
 
 ## Материалы к первому семинару
-https://drive.google.com/open?id=169qgAR8ZFOEjkoV5SOfmzWkUucQ1jMm
+https://drive.google.com/open?id=169qgAR8ZFOEjkoV5SOfmzWkUucQ1jMmr
 
 Anaconda3:
 
