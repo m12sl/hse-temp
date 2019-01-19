@@ -11,5 +11,5 @@
 
 
 ## Материалы ко второму семинару
-
+[Слайды](https://docs.google.com/presentation/d/1lDfIqVp5aoeLpy8AmiE3kzmWVfGYbaZH8KFclcr4N00/edit?usp=sharing)
 [Семинар](https://drive.google.com/open?id=126PmA08iqo_Yr5HWBSW4q1QHaSv_Ax1w)
