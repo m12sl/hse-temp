@@ -1,5 +1,7 @@
 # hse-temp
 
+[Группа Telegram для общения](https://t.me/joinchat/BkJoCBNT3z13SyQLjDTz7A)
+
 [Канал Telegram для объявлений](https://t.me/dlhse2019)
 
 
